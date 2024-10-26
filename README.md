@@ -1,27 +1,20 @@
-# Monsurat Afolabi
+# Data Scientist
 
 ### About Me
-Microsoft Certified Azure Data Scientist and Google Certified Data Analyst skilled in SQL, Excel, Power BI, Tableau, Python, and R.
+Data Scientist skilled in SQL, Excel, Power BI, Python, and Machine Learning.
 
-Proficient in predictive modeling, data processing, data mining algorithms, and scripting languages. I have an excellent understanding and proficiency of platforms for effective data analyses, with an in-depth understanding of the entire scope of the data analysis process.
+Proficient in predictive modeling, data processing, data wrangling and data mining algorithms. I have an excellent understanding and proficiency of platforms for effective data analyses, with an in-depth understanding of the entire scope of the data analysis process.
 
----
 
-### Education
-- **[Your Degree/Program Name]** - [Your University/Institution Name]  
-  [Month, Year] – [Month, Year]  
-  Brief description of your studies related to data science or analytics.
-
----
 
 ### Projects
-- **[Breast Cancer Prediction Model](link-to-your-repo)**  
+- **[Breast Cancer Prediction Model](https://github.com/Murnsurah/Breast-Cancer-Prediction.git)**  
   Description of the project, the technologies used, and its purpose.
   
-- **[Project 2 Name](link-to-your-repo)**  
+- **[Project 2 Name]()**  
   Brief description of the project and its relevance.
 
-- **[Project 3 Name](link-to-your-repo)**  
+- **[Project 3 Name]()**  
   Brief description of the project and its relevance.
 
 ---
@@ -40,14 +33,9 @@ Proficient in predictive modeling, data processing, data mining algorithms, and 
 
 ---
 
-### Certifications
-- Microsoft Certified Azure Data Scientist
-- Google Certified Data Analyst
-- [Any other relevant certifications or courses]
-
 ---
 
 ### Contact
-Feel free to connect with me on [LinkedIn] or reach out via email at [your-email@example.com].
+Feel free to connect with me on www.linkedin.com/in/monsurat-afolabi-846a08107 or reach out via email at Afolabimonsurat12@gmail.com.
 
 ---
