@@ -2,3 +2,14 @@ title: "Monsurat Afolabi"
 #logo: /assets/images/logo.png # Update this path to your logo
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Resume"
+    url: "/resume/"
+  - title: "Medium"
+    url: "https://medium.com/@yourusername"
